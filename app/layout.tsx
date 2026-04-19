@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 // Metadata untuk judul web dan deskripsi di pencarian Google
 export const metadata: Metadata = {
-  title: "Handyman - E-Commerce",
+  title: "ZoeMarket - E-Commerce",
   description: "Solusi Smart Home dan Pakaian Modern terbaik di Indonesia",
 };
 
